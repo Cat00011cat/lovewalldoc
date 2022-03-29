@@ -1,6 +1,6 @@
 
 
-<img width="180px" style="border-radius: 50%" bor src="./images/Cat00011cat.png">
+<img width="180px" style="border-radius: 50%" bor src="images/Cat00011cat.png">
 
 # 云南林业职业技术学院告白墙
 
